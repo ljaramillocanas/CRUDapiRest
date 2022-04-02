@@ -1,5 +1,7 @@
-# Parcial_tdea por Luis Fernando Jaramillo
+# CRUD realizado por Luis Fernando Jaramillo
 Parcial de tendencias de desarrollo.
+
+Utilizamos python, flask, mysql
 
 1- creamos una carpeta en escritorio llamada PARCIAL_TDEA
 2- en el visual studio code abrimos la carpeta y creamos el entorno virtual con el comando
